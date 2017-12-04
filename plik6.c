@@ -1,7 +1,7 @@
 // Wyszukiwanie wzorca algorytmem KMP.
 // Data:  4.06.2008
 // (C)2012 mgr Jerzy Wa³aszek
-//-----------------------------
+//------------------------------
 
 #include <iostream>
 #include <string>
