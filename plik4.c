@@ -1,4 +1,4 @@
-// Wyznaczanie maksymalnego PS
+// Wyznaczanie maksymalnego PS.
 // Data:  1.06.2008
 // (C)2012 mgr Jerzy Wa³aszek
 //-----------------------------
