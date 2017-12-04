@@ -1,4 +1,4 @@
-// Algorytm WWN z wartownikami
+// Algorytm WWN z wartownikami.
 // Data:   30.05.2008
 // (C)2012 mgr Jerzy Wa³aszek
 //-----------------------------
