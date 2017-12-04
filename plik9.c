@@ -1,4 +1,4 @@
-// Wyszukiwanie wzorca algorytmem BM
+// Wyszukiwanie wzorca algorytmem BM.
 // Data:  6.06.2008
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------------
