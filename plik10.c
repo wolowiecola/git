@@ -1,7 +1,7 @@
 // Wyszukiwanie wzorca pe³nym algorytmem BM
 // Data:  10.06.2008
 // (C)2012 mgr Jerzy Wa³aszek
-//-----------------------------------------
+//------------------------------------------
 
 #include <iostream>
 #include <string>
