@@ -1,4 +1,4 @@
-// Wyszukiwanie wzorca algorytmem MP
+// Wyszukiwanie wzorca algorytmem MP.
 // Data:  3.06.2008
 // (C)2012 mgr Jerzy Wa³aszek
 //-----------------------------
